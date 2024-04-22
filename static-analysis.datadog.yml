@@ -1,0 +1,6 @@
+schema-version: v1
+rulesets:
+- go-best-practices
+- go-security
+ignore:
+- public/*
